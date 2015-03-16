@@ -7,5 +7,5 @@ XAMPP commands
 1. [Alfred Powerpack](https://buy.alfredapp.com/)
 
 ## Installing
-1. Click the download buttons below
-2. Double-click to import into Alfred 2
+1. Click the download link above
+2. Open to import into Alfred 2
