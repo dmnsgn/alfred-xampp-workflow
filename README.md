@@ -1,4 +1,4 @@
-# xampp ([Download v1.1](https://github.com/dmnsgn/alfred-xampp-workflow/blob/master/XAMPP.alfredworkflow?raw=true]))
+# xampp ([Download v1.2](https://github.com/dmnsgn/alfred-xampp-workflow/blob/master/XAMPP.alfredworkflow?raw=true]))
 
 XAMPP commands
 
@@ -12,10 +12,10 @@ XAMPP commands
 
 ## Commands
 
-* `xampp`: default command. Starts Apache and MySQL.
-* `xampp restart`: retarts Apache and MySQL.
+* `xampp`: default command. Starts Apache, MySQL and ProFTPD
+* `xampp restart`: retarts Apache, MySQL and ProFTPD
 * `xampp stop`: stops Apache, MySQL and ProFTPD.
-* `xampp all`: starts Apache, MySQL and ProFTPD.
+* `xampp apache sql`: starts Apache and MySQL.
 * `xampp apache`: starts Apache only.
 * `xampp sql`: starts MySQL only.
 * `xampp ftp`: starts ProFTPD only.
